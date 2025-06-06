@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @birddrink
-- 📖 I'm a Unity Certified User Programmer
-- 👀 I’m interested in Game Development using the Unity Game Engine, as well as developing mods for Minecraft.
-- 🌱 I’m currently learning website creation using HTML, CSS and JS
-- 💞️ I’m looking to collaborate on a Game made with Unity
+Hey i'm birddrink and i program sometimes.
+I <em>basically</em> use C++ except when I use python for AI. I am planning to start some interesting projects so stay tuned!
+(i also am a certified user programmer in unity but i don't really remember anything haha)
